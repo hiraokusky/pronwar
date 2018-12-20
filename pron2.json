@@ -1,0 +1,14 @@
+[
+  {
+    "name": "kubernetes",
+    "lemma": "クーバネティス"
+  },
+  {
+    "name": "azure",
+    "lemma": "アズール"
+  },
+  {
+    "name": "tensorflow",
+    "lemma": "テンソルフロー"
+  }
+]
