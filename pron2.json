@@ -1,22 +1,30 @@
 [
   {
     "synset": "kubernetes",
+    "lemma": "クーベルネイテス",
+    "senses": [
+      "これでしょ",
+      "YOMIKATAで1位だし"
+    ]
+  },
+  {
+    "synset": "kubernetes",
     "lemma": "クーバネティス",
-    "sense": [
+    "senses": [
       "これでしょ"
     ]
   },
   {
     "synset": "azure",
     "lemma": "アズール",
-    "sense": [
+    "senses": [
       "これでしょ"
     ]
   },
   {
     "synset": "tensorflow",
     "lemma": "テンソルフロー",
-    "sense": [
+    "senses": [
       "公式"
     ]
   }
