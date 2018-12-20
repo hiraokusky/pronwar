@@ -1,14 +1,14 @@
 [
   {
-    "name": "char",
+    "synset": "char",
     "lemma": "チャー"
   },
   {
-    "name": "width",
+    "synset": "width",
     "lemma": "ウィズ"
   },
   {
-    "name": "height",
+    "synset": "height",
     "lemma": "ハイト"
   }
 ]
