@@ -1,14 +1,14 @@
 [
   {
-    "name": "kubernetes",
+    "synset": "kubernetes",
     "lemma": "クーバネティス"
   },
   {
-    "name": "azure",
+    "synset": "azure",
     "lemma": "アズール"
   },
   {
-    "name": "tensorflow",
+    "synset": "tensorflow",
     "lemma": "テンソルフロー"
   }
 ]
