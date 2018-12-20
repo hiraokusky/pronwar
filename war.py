@@ -4,7 +4,8 @@ import pprint
 import json
 import sys
 
-pron = sys.argv[1]
+# prons = sys.argv
+prons = ['pron1.json', 'pron2.json','pron3.json','pron4.json']
 
 def war(pron):
     with open(pron, encoding='utf8') as f:
@@ -18,5 +19,6 @@ def war(pron):
             synset[d['synset']] = { 'lemma': d['lemma'], 'senses': d['senses'] }
     return synset
 
-synset = war(pron)
-print(json.dumps(synset, indent=2, ensure_ascii=False))
+for pron in prons:
+    synset = war(pron)
+    print(json.dumps(synset, indent=2, ensure_ascii=False))

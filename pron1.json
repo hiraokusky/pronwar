@@ -1,23 +1,18 @@
 [
   {
-    "synset": "char",
-    "lemma": "チャー",
+    "synset": "tensorflow",
+    "lemma": "テンソルフロー",
     "senses": [
-      "これでしょ"
+      "Wikipedia",
+      "."
     ]
   },
   {
-    "synset": "width",
-    "lemma": "ウィズ",
+    "synset": "tensorflow",
+    "lemma": "テンサーフロー",
     "senses": [
-      "これでしょ"
-    ]
-  },
-  {
-    "synset": "height",
-    "lemma": "ハイト",
-    "senses": [
-      "これでしょ"
+      "Google社内ではこう言ってるよ",
+      "."
     ]
   }
 ]
