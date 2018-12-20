@@ -1,14 +1,23 @@
 [
   {
     "synset": "char",
-    "lemma": "チャー"
+    "lemma": "チャー",
+    "sense": [
+      "これでしょ"
+    ]
   },
   {
     "synset": "width",
-    "lemma": "ウィズ"
+    "lemma": "ウィズ",
+    "sense": [
+      "これでしょ"
+    ]
   },
   {
     "synset": "height",
-    "lemma": "ハイト"
+    "lemma": "ハイト",
+    "sense": [
+      "これでしょ"
+    ]
   }
 ]

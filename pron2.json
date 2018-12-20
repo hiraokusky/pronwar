@@ -1,14 +1,23 @@
 [
   {
     "synset": "kubernetes",
-    "lemma": "クーバネティス"
+    "lemma": "クーバネティス",
+    "sense": [
+      "これでしょ"
+    ]
   },
   {
     "synset": "azure",
-    "lemma": "アズール"
+    "lemma": "アズール",
+    "sense": [
+      "これでしょ"
+    ]
   },
   {
     "synset": "tensorflow",
-    "lemma": "テンソルフロー"
+    "lemma": "テンソルフロー",
+    "sense": [
+      "公式"
+    ]
   }
 ]
